@@ -1,0 +1,1 @@
+print("AI Image Classifier Project Started")
